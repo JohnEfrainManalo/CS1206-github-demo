@@ -9,7 +9,7 @@
 
 | Name| Duties and Responsibilities|
 |-----|----------------------------|
-|John Efrain   | Software Developer|
-|John Efrain   | Software Developer|
-|John Efrain   | Software Developer|
-|John Efrain   | Software Developer|
+|John Efrain   | Testing |
+|John Efrain   | Testing|
+|John Efrain   | Created the Code|
+|John Efrain   | Testing of the Table|
